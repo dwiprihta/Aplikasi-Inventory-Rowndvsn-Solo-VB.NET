@@ -1,0 +1,68 @@
+c:\users\asus\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\bin\Debug\rowndvsn.exe.config
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\bin\Debug\rowndvsn.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\bin\Debug\rowndvsn.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\bin\Debug\rowndvsn.xml
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.Resources.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.vbproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.exe
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.xml
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.INDEX.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.data_barang.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.user.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.login.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.master.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.transaksi_in.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.transaksi_out.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_barang.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_in.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_out.resources
+E:\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.exe.config
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.exe
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.xml
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.pdb
+E:\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.exe
+E:\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.pdb
+E:\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.xml
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.vbprojResolveAssemblyReference.cache
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.data_barang.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.INDEX.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.master.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.login.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.Resources.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_barang.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_in.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_out.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.transaksi_in.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.transaksi_out.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.user.resources
+E:\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.vbproj.GenerateResource.Cache
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.exe.config
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.exe
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.xml
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.pdb
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.exe
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.pdb
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.xml
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.vbprojResolveAssemblyReference.cache
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.data_barang.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.INDEX.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.master.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.login.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.Resources.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_barang.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_in.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.r_out.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.transaksi_in.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.transaksi_out.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.user.resources
+E:\PROYEK\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.vbproj.GenerateResource.Cache
+E:\PROGRAM\PROGRAM\rowndvsn\rowndvsn\bin\Debug\rowndvsn.exe.config
+E:\PROGRAM\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.exe
+E:\PROGRAM\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.xml
+E:\PROGRAM\PROGRAM\rowndvsn\rowndvsn\obj\Debug\rowndvsn.pdb
+E:\PROGRAM\PROGRAM\PROJECT\VB NET\ROWNDIVISION\rowndvsn\bin\Debug\rowndvsn.exe.config
+E:\PROGRAM\PROGRAM\PROJECT\VB NET\ROWNDIVISION\rowndvsn\obj\Debug\rowndvsn.exe
+E:\PROGRAM\PROGRAM\PROJECT\VB NET\ROWNDIVISION\rowndvsn\obj\Debug\rowndvsn.xml
+E:\PROGRAM\PROGRAM\PROJECT\VB NET\ROWNDIVISION\rowndvsn\obj\Debug\rowndvsn.pdb
